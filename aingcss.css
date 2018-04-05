@@ -1,0 +1,22 @@
+.jumbotron img {
+    width: 250px;
+    border: 4px solid #333;
+}
+
+.jumbotron p {
+
+    color: red;
+
+}
+
+.portofolio {
+
+    background-color: aquamarine;
+}
+
+.footer {
+    min-height: 50px;
+    background-color: black;
+    color: white;
+    padding: 15;
+}
