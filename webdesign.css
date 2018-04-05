@@ -1,51 +1,54 @@
-#gambar{
+#gambar {
     background-image: url(DSC09541.JPG);
     background-repeat: no-repeat;
-    min-width:1349px;
-    min-height:500px;
-    
-    
-    
-}
-#padding{
-    padding:0px;
-    border: 0px;
-    margin: 0px;
-    
-}
-#gambar1{
-    width:200px;
-    height:auto px;
-    
-    
+    min-width: 1349px;
+    min-height: 450px;
 }
 
-.animate{
+#marginform {
+
+    margin-bottom:200px;
+}
+
+#gambar1 {
+    width: 200px;
+    height: auto px;
+
+
+}
+
+.animate {
     transition: 1s;
 }
-.animate:hover{
+
+.animate:hover {
     transform: rotate(360deg);
-       border-radius: 500px;
+    border-radius: 500px;
 }
-#bg{
+
+#bg {
     background-color: #B2BABB;
 }
+
 .footer {
     min-height: 10px;
     background-color: black;
     color: white;
     padding: 20px;
 }
-#ig{
-    width:25px;
+
+#ig {
+    width: 25px;
     height: auto;
 }
-#fb{
-   
-    width:25px;
+
+#fb {
+
+    width: 25px;
     height: auto;
 }
-#twt{
-    width:25px;
+
+#twt {
+    width: 25px;
     height: auto;
 }
